@@ -5,3 +5,4 @@ extra lines
 
 more text
 conflicting line at the end of the file
+new line at the end
