@@ -4,3 +4,4 @@ newlines in the middle of the file....
 extra lines
 
 more text
+conflicting line at the end of the file
