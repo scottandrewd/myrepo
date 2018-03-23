@@ -1,3 +1,0 @@
-These are the disadvantages of git
-you need to add a commit message every time!!!
-add some more text here -
